@@ -1,5 +1,7 @@
 package org.durgesh.hackerrank.capitalone.arrays;
 
+import org.durgesh.hackerrank.capitalone.Util;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
